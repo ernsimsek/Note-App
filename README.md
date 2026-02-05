@@ -27,6 +27,7 @@ Clone the repository:
 git clone https://github.com/ernsimsek/Note-App.git
 ```
 
+<img width="1000" height="768" alt="Ekran görüntüsü 2026-02-05 011010" src="https://github.com/user-attachments/assets/aa7a6c12-4a68-49de-ba55-c7b26ccbb589" />
 
 [Live Demo](https://ernsimsek.github.io/Note-App/)
 
